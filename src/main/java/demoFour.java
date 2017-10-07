@@ -20,7 +20,7 @@ public class demoFour {
             }
 
             public String getName() {
-                return "显卡1";
+                return "tom";
             }
         });
     }
