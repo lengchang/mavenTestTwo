@@ -19,5 +19,6 @@ public class Outer {
     {
         Outer outer = new Outer();
         outer.acessInnerProp();
+        //使用push
     }
 }
